@@ -12,7 +12,7 @@ public class Card {
         // 5368235896831135
         //Lỗi
         //5368235896831131
-
+//1235654
     }
 
     public void checkThe() {
